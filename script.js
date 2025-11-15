@@ -31,3 +31,5 @@ now to send the change the collaborated code from cloud ,one need to :
 now "git pull" is used to get the changed code from github
 
 after that use " git push" for your changes to be reflected on github
+
+Git and github is easy !!!!
